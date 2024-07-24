@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareJsonFilesUsingLinq", "CompareJsonFilesUsingLinq\CompareJsonFilesUsingLinq.csproj", "{564CD513-919C-43F3-BA1C-ABE3216A3CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564CD513-919C-43F3-BA1C-ABE3216A3CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564CD513-919C-43F3-BA1C-ABE3216A3CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564CD513-919C-43F3-BA1C-ABE3216A3CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564CD513-919C-43F3-BA1C-ABE3216A3CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF53E186-D117-4B96-853B-3136DECF1F07}
+	EndGlobalSection
+EndGlobal
